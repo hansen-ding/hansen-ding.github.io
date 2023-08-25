@@ -750,6 +750,11 @@ section {
   width: 100%;
 }
 
+.portfolio-details .portfolio-details-slider video {
+  max-width: 100%; 
+  max-height: 100%;
+}
+
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
